@@ -1,0 +1,13 @@
+# Najpierw zignoruj wszystko
+*
+
+# Sledz ponizsze
+
+!*/
+
+!.gitignore
+!README.md
+
+!*.cpp
+!*.cc
+!*.h
